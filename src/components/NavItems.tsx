@@ -7,7 +7,6 @@ import { useOnClickOutside } from "@/hooks/use-on-click-outside";
 
 const NavItems = () => {
   const [activeIndex, setActiveIndex] = useState<null | number>(null);
-
   useEffect(() => {
     const handler = (e: KeyboardEvent) => {
       if (e.key === "Escape") {

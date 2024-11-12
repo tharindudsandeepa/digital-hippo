@@ -1,3 +1,5 @@
-const ProductReel = () => {};
+const ProductReel = () => {
+  return <></>;
+};
 
 export default ProductReel;

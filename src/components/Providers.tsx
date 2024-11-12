@@ -1,2 +1,4 @@
-const Providers = () => {};
+const Providers = () => {
+  return <></>;
+};
 export default Providers;

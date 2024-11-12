@@ -1,2 +1,4 @@
-const VerifyEmail = () => {};
+const VerifyEmail = () => {
+  return <></>;
+};
 export default VerifyEmail;
